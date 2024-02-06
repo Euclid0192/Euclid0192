@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nam (dylan) nguyen" target="blank"><img align="center" src="https://github.com/Euclid0192/Euclid0192/blob/main/linkedin-svgrepo-com.svg" alt="nam (dylan) nguyen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nam-nguyen-95452a252/" target="blank"><img align="center" src="https://github.com/Euclid0192/Euclid0192/blob/main/linkedin-svgrepo-com.svg" alt="nam (dylan) nguyen" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/euclid1234" target="blank"><img align="center" src="https://github.com/Euclid0192/Euclid0192/blob/main/leetcode.svg" alt="euclid1234" height="30" width="40" /></a>
 </p>
 
