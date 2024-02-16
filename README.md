@@ -24,4 +24,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=euclid0192&show_icons=true&locale=en&layout=compact" alt="euclid0192" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=euclid0192&" alt="euclid0192" /></p>
