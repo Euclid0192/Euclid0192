@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Express, MongoDB, TypeScript, C#**
 
-- 👨‍💻 All of my projects are available [here](bit.ly/portfolio-euclid)
+- 👨‍💻 All of my projects are available [here](https://my-portfolio-8bhz.onrender.com/)
 
 - 📫 Let's get in touch! **nguyenhainam8668@gmail.com**
 
