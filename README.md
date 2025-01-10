@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [PeacePod](https://github.com/jennydo/PeacePod-Frontend)
 
-- 🌱 I’m currently learning **Express, MongoDB, TypeScript, C#**
+- 🌱 I’m currently learning **Golang, gRPC, AWS**
 
 - 👨‍💻 All of my projects are available [here](https://my-portfolio-8bhz.onrender.com/)
 
