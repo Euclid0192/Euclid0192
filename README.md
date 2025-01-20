@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=euclid0192" alt="euclid0192" /></a> </p>
 
-- 🔭 I’m currently working on [PeacePod](https://github.com/jennydo/PeacePod-Frontend)
+- 🔭 I’m currently working on [Order Management System](https://github.com/Euclid0192/golang-microservices)
 
 - 🌱 I’m currently learning **Golang, gRPC, AWS**
 
