@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nam Hai Nguyen</h1>
-<h3 align="center">A dedicated Full-stack Developer who is willing to learn new things from new people!</h3>
+<h1 align="center">Hi 👋, I'm Nam</h1>
+<h3 align="center">A dedicated Full-stack Developer willing to learn new things from new people!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=euclid0192&label=Profile%20views&color=0e75b6&style=flat" alt="euclid0192" /> </p>
 
